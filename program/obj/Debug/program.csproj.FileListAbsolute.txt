@@ -1,0 +1,14 @@
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\bin\Debug\programm.exe.config
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\bin\Debug\programm.exe
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\bin\Debug\programm.pdb
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\obj\Debug\program.csproj.AssemblyReference.cache
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\obj\Debug\programm.exe
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\programm\obj\Debug\programm.pdb
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\obj\Debug\program.csproj.AssemblyReference.cache
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\bin\Debug\program.exe.config
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\bin\Debug\program.exe
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\bin\Debug\program.pdb
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\obj\Debug\program.exe
+D:\БГУИР\1 год\ко второй\ОАИП\курсовая\program\obj\Debug\program.pdb
